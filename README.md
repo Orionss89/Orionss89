@@ -9,9 +9,9 @@
 
 ## 🔥 About Me
 - 🌱 I’m currently learning **Spring Boot, REST APIs, and clean backend architecture**
-- 💼 My goal is to become a **professional Java Developer**
-- 💻 I love building backend systems, APIs, and learning new technologies
-- 🚀 Constantly improving through projects and real-world practice
+- 💼 Goal: become a **professional Java Developer**
+- 💻 I love building backend systems and exploring new technologies
+- 🚀 Constantly improving through projects and practice
 
 ---
 
@@ -26,22 +26,6 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orionss89&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orionss89&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orionss89&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
