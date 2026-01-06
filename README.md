@@ -30,14 +30,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Orionss89&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 📫 Contact Me
 <p align="center">
   <a href="mailto:lukaszura1989@gmail.com">
